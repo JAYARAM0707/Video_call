@@ -28,9 +28,9 @@
 }
 
 .btn {
-  color: rgb(0, 231, 231);
+  color: rgb(231, 0, 42);
   border: none;
-  border: 3px solid rgb(0, 231, 231);
+  border: 3px solid rgb(231, 0, 8);
   border-radius: 7px;
   cursor: pointer;
   font-weight: bold;
